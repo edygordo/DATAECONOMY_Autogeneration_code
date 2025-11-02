@@ -1,0 +1,5 @@
+INPUT_TO_REQUIREMENT = "input_to_requirement"
+CODING_AGENT = "coding_agent"
+TEST_CASE_GENERATOR = "test_case_generator"
+VERIFIER = "verifier"
+DOCUMENTATION_GENERATOR = "documentation_generator"

@@ -1,2 +1,2 @@
-# DATAECONOMY_Autogeneration_code
-An agentic framework build for generating a reliable and verified python code(executed and ran over a simple test case) from user input string.
+# Competitive_code_failing_tc_generator
+An agentic workflow to generate a simplified failing test case for a given question given the correct(Baseline Code), User code and Failing Test Case(Optional)
